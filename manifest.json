@@ -5,10 +5,10 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "/bootloader_qio_80m.bin", "offset": 4096 },
-        { "path": "/serverapi.ino.partitions.bin", "offset": 32768 },
-        { "path": "/boot_app0.bin", "offset": 57344 },
-        { "path": "/serverapi.ino.bin", "offset": 65536 }
+        { "path": "https://cojarbi.github.io/ESP32/bootloader_qio_80m.bin", "offset": 4096 },
+        { "path": "https://cojarbi.github.io/ESP32/serverapi.ino.partitions.bin", "offset": 32768 },
+        { "path": "https://cojarbi.github.io/ESP32/boot_app0.bin", "offset": 57344 },
+        { "path": "https://cojarbi.github.io/ESP32/serverapi.ino.bin", "offset": 65536 }
       ]
     }
   ]
